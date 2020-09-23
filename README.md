@@ -1,18 +1,26 @@
 <p>
     <h1>Hello World!</h1>
+    
 </p>
 
 This is a place where I like to showcase my personal projects and record how I've been building my skill as a developer. These projects range from playing with physics, messing with animations, to build tools to help other developers.
 
-<p align="center">
-<img src="xCitoLogo2.png" width="400"/>
-    <p align="center">This is a phrase yes</p>
-</p>
+
+
 
 <h2 align="center">Project Sneak-peeks</h2>
+<p align="center">
 <img src="https://github.com/xCito/Bubbles/blob/master/media/bubblesAnimation.gif" width="200" />
+<img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" width="200" />
+<img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" width="200" />
+<img src="https://github.com/xCito/InstantMessenger/blob/master/Screenshots/ssTwoInstancesTalking.png" width="200" />
+<img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" width="200" />
+<img src="https://github.com/xCito/NxN_TicTacToeWEB/blob/master/ScreenShots/9x9ScreenShot2.png" width="200" />
+</p>
 
-
+<p align="center">
+    <img src="xCitoLogo2.png" width="100"/>
+</p>
 <!--
 **xCito/xCito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
