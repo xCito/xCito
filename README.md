@@ -1,4 +1,12 @@
-### Hi there 👋
+<p>
+    <h1>Hello World!</h1>
+</p>
+
+This is a place where I like to showcase my personal projects and record how I've been building my skill as a developer. These projects range from playing with physics, messing with animations, to build tools to help other developers.
+
+<img align="right" src="xCitoLogo2.png" width="400"/>
+
+
 
 <!--
 **xCito/xCito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
