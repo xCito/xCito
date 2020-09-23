@@ -3,19 +3,19 @@
     
 </p>
 
-This is a place where I like to showcase my personal projects and record how I've been building my skill as a developer. These projects range from playing with physics, messing with animations, to build tools to help other developers.
+This is a place where I like to showcase my personal projects and record how I've been building my skills as a developer. These projects range from playing with physics, messing with animations, to building tools to help other developers.
 
 
 
 
 <h2 align="center">Project Sneak-peeks</h2>
 <p align="center">
-<img src="https://github.com/xCito/Bubbles/blob/master/media/bubblesAnimation.gif" height="150" width="200" />
-<img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" height="150" width="200" />
-<img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" height="150" width="200" />
-<img src="https://github.com/xCito/InstantMessenger/blob/master/Screenshots/ssTwoInstancesTalking.png" height="150" width="200" />
-<img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" height="150" width="200" />
-<img src="https://github.com/xCito/NxN_TicTacToeWEB/blob/master/ScreenShots/9x9ScreenShot2.png"  height="150" width="200" />
+<img src="https://github.com/xCito/Bubbles/blob/master/media/bubblesAnimation.gif" height="140" width="200" />
+<img src="https://github.com/xCito/NxN_TicTacToeWEB/blob/master/ScreenShots/9x9ScreenShot2.png"  height="140" width="200" />
+<img src="https://github.com/xCito/InstantMessenger/blob/master/Screenshots/ssTwoInstancesTalking.png" height="140" width="200" />
+<img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" height="140" width="200" />
+<img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" height="140" width="200" />
+<img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" height="140" width="200" />
 </p>
 
 <p align="center">
