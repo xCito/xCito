@@ -16,6 +16,7 @@ This is a place where I like to showcase my personal projects and record how I'v
 <img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" height="140" width="200" />
 <img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" height="140" width="200" />
 <img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" height="140" width="200" />
+<img src="https://github.com/xCito/VisualizeGitBranches/blob/master/media/gitBranchingSm.gif" height="140" width="200" />
 </p>
 
 <p align="center">
