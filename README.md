@@ -20,55 +20,60 @@ This is a place where I like to showcase my personal projects and record how I'v
 </p>
 
 #### Skills 
-<p align="center">
-    <table>
-        <tr>
-            <td>
-                <img src="https://hackr.io/tutorials/javascript/logo-javascript.svg?ver=1587977697" height="20"/>
-                JavaScript
-            </td>    
-            <td>
-                <img src="https://lh3.googleusercontent.com/proxy/iSJT2gdwW89rCNshgBMSUZ4SSCMPRaDfxP8nVIQN67xVU6hMBuN60h7NLklktrQMKfrUHI1pg06qA19HXKC8VwOPs2nDRsifeIFfXJjzqDQ3" height="20"/>
-                Java
-            </td>    
-            <td>
-                <img src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png" height="20"/>
-                C++
-            </td>    
-            <td>
-                <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_256/nodejslogo.png" height="20"/>
-                Nodejs
-            </td>    
-            <td>
-                <img src="https://miro.medium.com/max/256/1*gGh9I9ju9w4lXhmWoG2fXA.png" height="20"/>
-                React
-            </td>    
-        </tr>
-        <tr>
-            <td>
-                <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" height="20"/>
-                Angular
-            </td>    
-            <td>
-                <img src="https://4.bp.blogspot.com/-em76SZ3Rbvg/WC6ennGKWJI/AAAAAAAAF3s/Eb5WcKiV6SMqHHyLmGqoI5rlUaGEZ_SzgCLcB/s1600/regex%2Bicon.png" height="20"/>
-                Regex
-            </td>    
-            <td>
-                <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" height="20"/>
-                MySQL
-            </td>    
-            <td>
-                <img src="https://transferwise.github.io/pipelinewise/_images/salesforce-logo.png" height="20"/>
-                SOQL
-            </td>    
-            <td>
-                <img src="https://discoverthreejs.com/static/images/app-logos/html5.png" height="20"/>
-                HTML/CSS
-                <img src="https://www.anujgakhar.com/wp-content/uploads/2014/07/css1.png" height="20"/>
-            </td>    
-        </tr>
-    </table>
-</p>
+<table border="red">
+    <tr>
+        <td>
+            <img src="https://hackr.io/tutorials/javascript/logo-javascript.svg?ver=1587977697" height="20"/>
+            JavaScript
+        </td>    
+        <td class="wow">
+            <img src="https://lh3.googleusercontent.com/proxy/iSJT2gdwW89rCNshgBMSUZ4SSCMPRaDfxP8nVIQN67xVU6hMBuN60h7NLklktrQMKfrUHI1pg06qA19HXKC8VwOPs2nDRsifeIFfXJjzqDQ3" height="20"/>
+            Java
+        </td>    
+        <td>
+            <img src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png" height="20"/>
+            C++
+        </td>    
+        <td>
+            <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_256/nodejslogo.png" height="20"/>
+            Nodejs
+        </td>    
+        <td>
+            <img src="https://miro.medium.com/max/256/1*gGh9I9ju9w4lXhmWoG2fXA.png" height="20"/>
+            React
+        </td>    
+        <td>
+            <img src="https://hello.p5js.org/assets/p5-sq-reverse.svg" height="20"/>
+            p5.js
+        </td>    
+    </tr>
+    <tr>
+        <td>
+            <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" height="20"/>
+            Angular
+        </td>    
+        <td>
+            <img src="https://4.bp.blogspot.com/-em76SZ3Rbvg/WC6ennGKWJI/AAAAAAAAF3s/Eb5WcKiV6SMqHHyLmGqoI5rlUaGEZ_SzgCLcB/s1600/regex%2Bicon.png" height="20"/>
+            Regex
+        </td>    
+        <td>
+            <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" height="20"/>
+            MySQL
+        </td>    
+        <td>
+            <img src="https://transferwise.github.io/pipelinewise/_images/salesforce-logo.png" height="20"/>
+            SOQL
+        </td>    
+        <td>
+            <img src="https://discoverthreejs.com/static/images/app-logos/html5.png" height="20"/>
+            HTML
+        </td>    
+        <td>
+            <img src="https://www.anujgakhar.com/wp-content/uploads/2014/07/css1.png" height="20"/>
+            CSS
+        </td>    
+    </tr>
+</table>
 
 
 #### Areas of interest
@@ -79,6 +84,12 @@ This is a place where I like to showcase my personal projects and record how I'v
 <p align="center">
     <img src="xCitoLogo2.png" width="100"/>
 </p>
+
+<style>
+    .wow {
+        background-color: red;
+    }
+</style>
 <!--
 **xCito/xCito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
