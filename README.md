@@ -85,8 +85,8 @@ This is a place where I like to showcase my personal projects and record how I'v
     <img src="xCitoLogo2.png" width="100"/>
 </p>
 
-<style>
-    .wow {
+<style type="text/css">
+    p {
         background-color: red;
     }
 </style>
