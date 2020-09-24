@@ -81,15 +81,11 @@ This is a place where I like to showcase my personal projects and record how I'v
 * Backend Web Development
 * NLP
 
+<hr>
 <p align="center">
     <img src="xCitoLogo2.png" width="100"/>
 </p>
 
-<style type="text/css">
-    p {
-        background-color: red;
-    }
-</style>
 <!--
 **xCito/xCito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
