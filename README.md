@@ -10,13 +10,13 @@ This is a place where I like to showcase my personal projects and record how I'v
 
 <h2 align="center">Project Sneak-peeks</h2>
 <p align="center">
-<img src="https://github.com/xCito/Bubbles/blob/master/media/bubblesAnimation.gif" height="140" width="200" />
-<img src="https://github.com/xCito/NxN_TicTacToeWEB/blob/master/ScreenShots/9x9ScreenShot2.png"  height="140" width="200" />
-<img src="https://github.com/xCito/InstantMessenger/blob/master/Screenshots/ssTwoInstancesTalking.png" height="140" width="200" />
-<img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" height="140" width="200" />
-<img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" height="140" width="200" />
-<img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" height="140" width="200" />
-<img src="https://github.com/xCito/VisualizeGitBranches/blob/master/media/gitBranchingSm.gif" height="140" />
+<img src="https://github.com/xCito/Bubbles/blob/master/media/bubblesAnimation.gif" height="140" />
+<img src="https://github.com/xCito/NxN_TicTacToeWEB/blob/master/ScreenShots/9x9ScreenShot2.png"  height="140" />
+<img src="https://github.com/xCito/InstantMessenger/blob/master/Screenshots/ssTwoInstancesTalking.png" height="140" />
+<img src="https://github.com/xCito/InfectedBunny/blob/master/media/bunnyInfection.gif" height="140" />
+<img src="https://github.com/xCito/Slingshot/blob/master/screenshot/menuScreenShot.png" height="140" />
+<img src="https://github.com/xCito/Bouncing/blob/master/media/bounceAnimation.gif" height="140" />
+<img src="https://github.com/xCito/VisualizeGitBranches/blob/master/media/gitBranchingSm.gif" />
 </p>
 
 <p align="center">
