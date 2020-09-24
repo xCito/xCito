@@ -19,6 +19,32 @@ This is a place where I like to showcase my personal projects and record how I'v
 <img src="https://github.com/xCito/VisualizeGitBranches/blob/master/media/gitBranchingSm.gif" />
 </p>
 
+#### Skills 
+<p align="center">
+    <table>
+        <tr>
+            <td>JavaScript</td>    
+            <td>Java</td>    
+            <td>C++</td>    
+            <td>Nodejs</td>    
+            <td>React</td>    
+        </tr>
+        <tr>
+            <td>Angular</td>    
+            <td>Regex</td>    
+            <td>SQL</td>    
+            <td>SOQL</td>    
+            <td>HTML/CSS</td>    
+        </tr>
+    </table>
+</p>
+
+
+#### Areas of interest
+* Frontend Web Development
+* Backend Web Development
+* NLP
+
 <p align="center">
     <img src="xCitoLogo2.png" width="100"/>
 </p>
